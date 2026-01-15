@@ -1,4 +1,4 @@
-# Integral Calculations (Monte Carlo)
+# Monte Carlo
 
 Небольшой инструмент для оценки двух интегралов с помощью Монте‑Карло. Есть простой middle-square генератор и вариант с NumPy RNG.
 
